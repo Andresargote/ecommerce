@@ -1,0 +1,13 @@
+.filter {
+  padding: 10px 20px;
+  border-radius: 100px;
+  background-color: transparent;
+
+  border: 1px solid var(--black);
+  font-size: 14px;
+}
+
+.filter .active {
+  background-color: var(--black);
+  color: white;
+}
