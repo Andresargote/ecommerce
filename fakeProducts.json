@@ -1,0 +1,32 @@
+[
+  {
+    "img": "https://i.ibb.co/rwf1sD9/benetton1-2.png",
+    "title": "Camisa estampada manga corta",
+    "price": 30
+  },
+  {
+    "img": "https://i.ibb.co/xJG0ZnQ/Benetton-22-P-1028-U6007-78-D-F-Full-PDP-sq-2.png",
+    "title": "Camisa de punto manga corta",
+    "price": 59.95
+  },
+  {
+    "img": "https://i.ibb.co/WttfDV7/Benetton-22-P-35-A8-U100-Z-931-F-Full-PDP-h-1.png",
+    "title": "Camiseta de rayas manga corta",
+    "price": 19.95
+  },
+  {
+    "img": "https://i.ibb.co/80vJRQn/Benetton-22-P-3-ECCU100-I-915-F-Full-PDP-h-1.png",
+    "title": "Camiseta de rayas azules manga corta",
+    "price": 19.95
+  },
+  {
+    "img": "https://i.ibb.co/vvqPpj3/Benetton-22-P-33-CMU101-R-252-F-Full-PDP-sq-1.png",
+    "title": "Camiseta de lino mixto azul marino",
+    "price": 19.95
+  },
+  {
+    "img": "https://i.ibb.co/jv836gv/Benetton-22-P-3-NDBU101-Q-1-V1-F-Full-PDP-h-1.png",
+    "title": "Camiseta de algodón roja",
+    "price": 35.95
+  }
+]
