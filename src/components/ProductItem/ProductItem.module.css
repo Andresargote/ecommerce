@@ -1,0 +1,11 @@
+.productItemContainer p {
+  font-size: 1.1rem;
+  margin: 5px 0px;
+  font-weight: 400;
+}
+
+.productItemContainer img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
